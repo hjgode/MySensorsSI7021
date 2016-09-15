@@ -1,0 +1,6 @@
+[submodule "lib/MySensors"]
+	path = lib/MySensors
+	url = https://github.com/mysensors/MySensors.git
+[submodule "lib/SI7021"]
+	path = lib/SI7021
+	url = https://github.com/LowPowerLab/SI7021.git
